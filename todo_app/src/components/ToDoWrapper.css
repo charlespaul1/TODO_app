@@ -1,0 +1,11 @@
+.to-do-wrapper {
+    background: #1A1A40;
+    margin-top: 5rem;
+    padding: 2rem;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+  }
+.to-do-wrapper h1 {
+    color: #ffff;
+}
