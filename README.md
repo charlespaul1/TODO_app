@@ -26,4 +26,3 @@ If you would like to contribute to this project, feel free to submit a pull requ
 
 
 This app was built as part of a React tutorial.
-The styling was inspired by the Material UI library.
