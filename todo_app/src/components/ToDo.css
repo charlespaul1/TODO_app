@@ -14,3 +14,13 @@
 .fa-trash{
     margin-left: 0.75rem;
 }
+/* For screens smaller than 600px */
+@media only screen and (max-width: 600px) {
+  .todo p {
+    font-size: 14px;
+  }
+  .todo {
+    width: 300px;
+    margin-left: 0;
+  }
+}

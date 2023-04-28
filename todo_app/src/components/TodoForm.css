@@ -21,4 +21,13 @@
 .todo-input::placeholder {
     color: #ffffff4d;
   }
+@media only screen and (max-width: 600px) {
+    .todo-form input{
+        width: 200px;
+    }
+    .todo-form button{
+        padding: 0.5rem;
+        margin-bottom: 5px;
+    }
   
+}

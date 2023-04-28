@@ -1,9 +1,10 @@
 .App {
   text-align: center;
+  font-family: sans-serif;
 
 }
 h1 {
-  color: rgb(27, 27, 27);
+  color: rgb(240, 233, 233);
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
 }

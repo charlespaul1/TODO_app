@@ -15,3 +15,16 @@
     color: #c5aeff;
     text-decoration: line-through;
 }
+@media only screen and (max-width: 600px) {
+    .to-do-wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+        width: auto;
+    }
+    .to-do-wrapper h1{
+        font-size: 1.5rem;
+    }
+    
+}
